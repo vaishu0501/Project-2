@@ -13,6 +13,8 @@ This project detects and recognizes faces from a camera feed and compares them t
 
 🚀 Project Structure
 📦 Project-2
+
+
 ├── image_comparison.py        # Compare two images using face similarity
 ├── main_video.py              # Main real-time recognition loop
 ├── simple_facerec.py          # Simple face recognition helper
